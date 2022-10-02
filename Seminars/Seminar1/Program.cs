@@ -62,3 +62,21 @@ while(current <= number)
 
 */
 
+/*
+
+// Задача 3
+
+Console.Write("Input a three-digit number = ");
+int number = Convert.ToInt32(Console.ReadLine());
+
+if(number >=100 && number < 1000)
+{
+    int lastDigit = number % 10;
+    Console.Write($"Last digit of {number} is {lastDigit}");
+}
+else
+{
+    Console.WriteLine("Uncorrent input!");
+}
+
+*/
