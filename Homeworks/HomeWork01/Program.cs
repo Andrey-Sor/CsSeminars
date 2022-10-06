@@ -1,4 +1,4 @@
-﻿/ HomeWork 1 of seminar 1.
+﻿// HomeWork 1 of seminar 1.
 /*
 Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
     a = 5; b = 7 -> max = 7
@@ -293,3 +293,37 @@ else
 */
 
 
+/*
+Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+    5 -> 2, 4
+    8 -> 2, 4, 6, 8
+*/
+
+/*
+
+Console.WriteLine("============");
+Console.WriteLine("Input a number ");
+
+int number = Convert.ToInt32(Console.ReadLine());
+int current = 2;
+int counter = 0;
+
+Console.WriteLine("Even numbers in the between 1 to " + number);
+
+if (number > 1)
+{
+    while (current <= number)
+    {
+        Console.Write(current + "  ");
+        current = current +2;
+        counter ++;
+    }
+    Console.WriteLine();
+    Console.WriteLine($"In the between 1 and {number} - {counter} even numbers");
+}
+else
+{
+    Console.Write($"In the between 1 and {number} no even numbers");
+}
+
+*/
