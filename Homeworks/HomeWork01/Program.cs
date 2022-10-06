@@ -11,10 +11,10 @@ Console.WriteLine("Option 1: На вход поступают числа из у
 
 Console.WriteLine("------------");
 Console.WriteLine("Example 1:");
-Console.WriteLine("First number = -9");
-int a1 = -9;
-Console.WriteLine("Second number = -3");
-int b1 = -3;
+Console.WriteLine("First number = 5");
+int a1 = 5;
+Console.WriteLine("Second number = 7");
+int b1 = 7;
 
 if (a1 > b1)
 {
@@ -292,6 +292,25 @@ else
 }
 */
 
+/*
+Console.WriteLine("============");
+Console.WriteLine("Option 2: На вход поступают числа от пользователя"); 
+Console.WriteLine("------------");
+Console.WriteLine("Является ли число чётным:");
+Console.Write("Input number = ");
+int a = Convert.ToInt32(Console.ReadLine());
+
+if (a % 2 == 0)
+{
+    Console.WriteLine($"Yes, number {a} is even");
+}
+else
+{
+    Console.WriteLine($"No, number {a} is uneven");
+}
+*/
+
+
 
 /*
 Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
@@ -299,9 +318,10 @@ else
     8 -> 2, 4, 6, 8
 */
 
-/*
 
+/*
 Console.WriteLine("============");
+Console.WriteLine("Showing even numbers");
 Console.WriteLine("Input a number ");
 
 int number = Convert.ToInt32(Console.ReadLine());
