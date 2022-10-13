@@ -57,7 +57,7 @@ bool Multiples(int number, int a, int b);
     else
         result = false;
 
-    return = result;
+    return result;
 
 }
 
