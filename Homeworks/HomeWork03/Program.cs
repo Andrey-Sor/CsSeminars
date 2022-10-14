@@ -5,6 +5,7 @@
 23432 -> да
 */
 
+
 bool Palindrom(int number);
 {
     bool result;
