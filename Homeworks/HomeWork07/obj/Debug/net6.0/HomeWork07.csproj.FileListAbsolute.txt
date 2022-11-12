@@ -1,0 +1,15 @@
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\obj\Debug\net6.0\HomeWork07.csproj.AssemblyReference.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\obj\Debug\net6.0\HomeWork07.GeneratedMSBuildEditorConfig.editorconfig
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\obj\Debug\net6.0\HomeWork07.AssemblyInfoInputs.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\obj\Debug\net6.0\HomeWork07.AssemblyInfo.cs
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\obj\Debug\net6.0\HomeWork07.csproj.CoreCompileInputs.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\bin\Debug\net6.0\HomeWork07.exe
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\bin\Debug\net6.0\HomeWork07.deps.json
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\bin\Debug\net6.0\HomeWork07.runtimeconfig.json
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\bin\Debug\net6.0\HomeWork07.dll
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\bin\Debug\net6.0\HomeWork07.pdb
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\obj\Debug\net6.0\HomeWork07.dll
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\obj\Debug\net6.0\refint\HomeWork07.dll
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\obj\Debug\net6.0\HomeWork07.pdb
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\obj\Debug\net6.0\HomeWork07.genruntimeconfig.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Homeworks\HomeWork07\obj\Debug\net6.0\ref\HomeWork07.dll

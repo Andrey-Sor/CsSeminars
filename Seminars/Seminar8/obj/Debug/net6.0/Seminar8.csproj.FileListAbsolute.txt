@@ -1,0 +1,15 @@
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.csproj.AssemblyReference.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.GeneratedMSBuildEditorConfig.editorconfig
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.AssemblyInfoInputs.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.AssemblyInfo.cs
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.csproj.CoreCompileInputs.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\bin\Debug\net6.0\Seminar8.exe
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\bin\Debug\net6.0\Seminar8.deps.json
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\bin\Debug\net6.0\Seminar8.runtimeconfig.json
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\bin\Debug\net6.0\Seminar8.dll
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\bin\Debug\net6.0\Seminar8.pdb
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.dll
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\obj\Debug\net6.0\refint\Seminar8.dll
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.pdb
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.genruntimeconfig.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\5.Знакомство с языками программирования (лекции)\Урок1_сем\C#Seminar1\Seminars\Seminar8\obj\Debug\net6.0\ref\Seminar8.dll
