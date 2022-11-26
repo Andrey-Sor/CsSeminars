@@ -135,7 +135,7 @@ int SearchRow(int[,] array)
         if(sumCurrent <= minSumOfRows)
         {
             minSumOfRows = sumCurrent;
-            rowsOfMinSum = i;
+            rowsOfMinSum = i+1;
         }
     }
     Console.WriteLine("Min sum row: " + minSumOfRows);
@@ -148,8 +148,8 @@ Show2dArray(myArray);
 Console.WriteLine();
 int serchRow = SearchRow(myArray);
 Console.WriteLine("Row with the min sum element: " + serchRow);
-
 */
+
 
 
 // Задача 58: Задайте две матрицы. Напишите программу, которая будет находить произведение двух матриц.
@@ -237,8 +237,8 @@ else
     Console.WriteLine($"The resulting array: ");
     Show2dArray(productOfArray);
 }
-
 */
+
 
 
 
@@ -249,31 +249,9 @@ else
 // 27(0,0,1) 90(0,1,1)
 // 26(1,0,1) 55(1,1,1)
 
-
+/*
 int[,,] MyArray()
 {
-    // bool FindElement(int[,,] arr, int findElement)
-    // {
-    //     bool result;
-    //     for(int i = 0; i < arr.GetLength(0); i++)
-    //         {
-    //             for(int j = 0; j < arr.GetLength(1); j++)
-    //             {
-    //                 for(int k = 0; k < arr.GetLength(2); k++)
-    //                 {
-    //                     if(findElement != arr[i,j,k])
-    //                         result = true;
-    //                     else
-    //                         result = false;
-    //                      return result;
-    //                 }
-    //             }
-    //         }
-       
-    // }
-
-   
-
     Console.Write("Input the number of rows: ");
     int rows = Convert.ToInt32(Console.ReadLine());
     Console.Write("Input the number of columns: ");
@@ -327,7 +305,7 @@ Console.WriteLine();
 Console.WriteLine("The resulting 3D-array:\n");
 Show3dArray(myArray);
 Console.WriteLine();
-
+*/
 
 
 
