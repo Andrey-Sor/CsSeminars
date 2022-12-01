@@ -17,4 +17,4 @@ int SumOfDigits(int num)
     else return 0;
 }
 
-Console.WriteLine(SumOfDigits(573614314));
+Console.WriteLine(SumOfDigits(5736));
